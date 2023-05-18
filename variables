@@ -17,6 +17,7 @@ dart는 '여러 타입을 가질 수 있는' dynamic 타입을 지원한다.
 
 
 ## nullable variables
+
 null safety는 개발자가 null 값을 참조할 수 없게 하는 것이다.
 
 다음 코드를 보자.
